@@ -1,0 +1,20 @@
+﻿  wjg.cpp
+c:\users\wjg\desktop\rttnw_01\rttnw_01\rt\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\rt\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\rt\hitable_list.h(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\rt\camera.h(40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\rt\material.h(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\rt\material.h(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(60): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(60): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(62): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(67): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(78): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(79): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(79): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(83): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(90): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(91): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\wjg\desktop\rttnw_01\rttnw_01\wjg.cpp(116): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  RTTNW_01.vcxproj -> C:\Users\wjg\Desktop\RTTNW_01\Debug\RTTNW_01.exe
+  RTTNW_01.vcxproj -> C:\Users\wjg\Desktop\RTTNW_01\Debug\RTTNW_01.pdb (Partial PDB)

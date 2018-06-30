@@ -1,0 +1,20 @@
+﻿  wjg.cpp
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\rt\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\rt\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\rt\hitable_list.h(40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\rt\camera.h(40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\rt\material.h(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\rt\material.h(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(60): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(60): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(63): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(68): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(80): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(81): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(81): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(85): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(92): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(93): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_02\rttnw_02\wjg.cpp(117): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  RTTNW_02.vcxproj -> C:\c++Practice\rayTracingTheNextWeek\RTTNW_02\Debug\RTTNW_02.exe
+  RTTNW_02.vcxproj -> C:\c++Practice\rayTracingTheNextWeek\RTTNW_02\Debug\RTTNW_02.pdb (Partial PDB)
