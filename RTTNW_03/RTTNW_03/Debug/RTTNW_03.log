@@ -1,0 +1,11 @@
+﻿  wjg.cpp
+c:\c++practice\raytracingthenextweek\rttnw_03\rttnw_03\rt\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_03\rttnw_03\rt\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_03\rttnw_03\rt\hitable_list.h(40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_03\rttnw_03\rt\camera.h(40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_03\rttnw_03\rt\material.h(21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_03\rttnw_03\rt\material.h(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_03\rttnw_03\wjg.cpp(103): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_03\rttnw_03\wjg.cpp(131): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  RTTNW_03.vcxproj -> C:\c++Practice\rayTracingTheNextWeek\RTTNW_03\Debug\RTTNW_03.exe
+  RTTNW_03.vcxproj -> C:\c++Practice\rayTracingTheNextWeek\RTTNW_03\Debug\RTTNW_03.pdb (Partial PDB)

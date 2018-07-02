@@ -1,0 +1,14 @@
+﻿  wjg.cpp
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\hitable_list.h(40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\camera.h(40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\perlin.h(29): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\perlin.h(30): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\perlin.h(31): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\texture.h(45): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\material.h(21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\rt\material.h(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracingthenextweek\rttnw_04\rttnw_04\wjg.cpp(76): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  RTTNW_04.vcxproj -> C:\c++Practice\rayTracingTheNextWeek\RTTNW_04\Debug\RTTNW_04.exe
+  RTTNW_04.vcxproj -> C:\c++Practice\rayTracingTheNextWeek\RTTNW_04\Debug\RTTNW_04.pdb (Partial PDB)
